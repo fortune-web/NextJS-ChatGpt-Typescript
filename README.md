@@ -58,7 +58,7 @@ Now you can view the app live in the Browser!
 
 ## **Creator**
 
-- [Said Madi](https://github.com/Saeed99Madi)
+- [Fortune Web](https://github.com/fortune-web)
 
 ## **Resources**
 
